@@ -1,0 +1,1127 @@
+<html lang="en"><head>
+    
+      
+  <meta charset="utf-8">
+
+
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+
+  <title>Ecommerse</title>
+  <meta name="description" content="Shop powered by PrestaShop">
+  <meta name="keywords" content="">
+      
+                  <link rel="alternate" href="http://serenitybddpractice.com/" hreflang="en-us">
+        
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+  <link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1324977642">
+  <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1324977642">
+
+
+
+    <link rel="stylesheet" href="http://serenitybddpractice.com/themes/classic/assets/css/theme.css" type="text/css" media="all">
+  <link rel="stylesheet" href="http://serenitybddpractice.com/js/jquery/ui/themes/base/minified/jquery-ui.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="http://serenitybddpractice.com/js/jquery/ui/themes/base/minified/jquery.ui.theme.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="http://serenitybddpractice.com/modules/ps_imageslider/css/homeslider.css" type="text/css" media="all">
+  <link rel="stylesheet" href="http://serenitybddpractice.com/themes/classic/assets/css/custom.css" type="text/css" media="all">
+
+
+
+
+  
+
+  <script type="text/javascript">
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Total","amount":0,"value":"\u20ac0.00"},"total_including_tax":{"type":"total","label":"Total (tax incl.)","amount":0,"value":"\u20ac0.00"},"total_excluding_tax":{"type":"total","label":"Total (tax excl.)","amount":0,"value":"\u20ac0.00"}},"subtotals":{"products":{"type":"products","label":"Subtotal","amount":0,"value":"\u20ac0.00"},"discounts":null,"shipping":{"type":"shipping","label":"Shipping","amount":0,"value":"Free"},"tax":null},"products_count":0,"summary_string":"0 items","vouchers":{"allowed":0,"added":[]},"discounts":[],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"name":"Euro","iso_code":"EUR","iso_code_num":"978","sign":"\u20ac"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"English (English)","iso_code":"en","locale":"en-US","language_code":"en-us","is_rtl":"0","date_format_lite":"m\/d\/Y","date_format_full":"m\/d\/Y H:i:s","id":1},"page":{"title":"","canonical":null,"meta":{"title":"Ecommerse","description":"Shop powered by PrestaShop","keywords":"","robots":"index"},"page_name":"index","body_classes":{"lang-en":true,"lang-rtl":false,"country-CA":true,"currency-EUR":true,"layout-full-width":true,"page-index":true,"tax-display-disabled":true},"admin_notifications":[]},"shop":{"name":"Ecommerse","logo":"\/img\/logo.png","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"http:\/\/serenitybddpractice.com\/","current_url":"http:\/\/serenitybddpractice.com\/","shop_domain_url":"http:\/\/serenitybddpractice.com","img_ps_url":"http:\/\/serenitybddpractice.com\/img\/","img_cat_url":"http:\/\/serenitybddpractice.com\/img\/c\/","img_lang_url":"http:\/\/serenitybddpractice.com\/img\/l\/","img_prod_url":"http:\/\/serenitybddpractice.com\/img\/p\/","img_manu_url":"http:\/\/serenitybddpractice.com\/img\/m\/","img_sup_url":"http:\/\/serenitybddpractice.com\/img\/su\/","img_ship_url":"http:\/\/serenitybddpractice.com\/img\/s\/","img_store_url":"http:\/\/serenitybddpractice.com\/img\/st\/","img_col_url":"http:\/\/serenitybddpractice.com\/img\/co\/","img_url":"http:\/\/serenitybddpractice.com\/themes\/classic\/assets\/img\/","css_url":"http:\/\/serenitybddpractice.com\/themes\/classic\/assets\/css\/","js_url":"http:\/\/serenitybddpractice.com\/themes\/classic\/assets\/js\/","pic_url":"http:\/\/serenitybddpractice.com\/upload\/","pages":{"address":"http:\/\/serenitybddpractice.com\/address","addresses":"http:\/\/serenitybddpractice.com\/addresses","authentication":"http:\/\/serenitybddpractice.com\/login","cart":"http:\/\/serenitybddpractice.com\/cart","category":"http:\/\/serenitybddpractice.com\/index.php?controller=category","cms":"http:\/\/serenitybddpractice.com\/index.php?controller=cms","contact":"http:\/\/serenitybddpractice.com\/contact-us","discount":"http:\/\/serenitybddpractice.com\/discount","guest_tracking":"http:\/\/serenitybddpractice.com\/guest-tracking","history":"http:\/\/serenitybddpractice.com\/order-history","identity":"http:\/\/serenitybddpractice.com\/identity","index":"http:\/\/serenitybddpractice.com\/","my_account":"http:\/\/serenitybddpractice.com\/my-account","order_confirmation":"http:\/\/serenitybddpractice.com\/order-confirmation","order_detail":"http:\/\/serenitybddpractice.com\/index.php?controller=order-detail","order_follow":"http:\/\/serenitybddpractice.com\/order-follow","order":"http:\/\/serenitybddpractice.com\/order","order_return":"http:\/\/serenitybddpractice.com\/index.php?controller=order-return","order_slip":"http:\/\/serenitybddpractice.com\/credit-slip","pagenotfound":"http:\/\/serenitybddpractice.com\/page-not-found","password":"http:\/\/serenitybddpractice.com\/password-recovery","pdf_invoice":"http:\/\/serenitybddpractice.com\/index.php?controller=pdf-invoice","pdf_order_return":"http:\/\/serenitybddpractice.com\/index.php?controller=pdf-order-return","pdf_order_slip":"http:\/\/serenitybddpractice.com\/index.php?controller=pdf-order-slip","prices_drop":"http:\/\/serenitybddpractice.com\/prices-drop","product":"http:\/\/serenitybddpractice.com\/index.php?controller=product","search":"http:\/\/serenitybddpractice.com\/search","sitemap":"http:\/\/serenitybddpractice.com\/sitemap","stores":"http:\/\/serenitybddpractice.com\/stores","supplier":"http:\/\/serenitybddpractice.com\/supplier","register":"http:\/\/serenitybddpractice.com\/login?create_account=1","order_login":"http:\/\/serenitybddpractice.com\/order?login=1"},"alternative_langs":{"en-us":"http:\/\/serenitybddpractice.com\/"},"theme_assets":"\/themes\/classic\/assets\/","actions":{"logout":"http:\/\/serenitybddpractice.com\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"http:\/\/serenitybddpractice.com\/img\/p\/en-default-small_default.jpg","width":98,"height":98},"cart_default":{"url":"http:\/\/serenitybddpractice.com\/img\/p\/en-default-cart_default.jpg","width":125,"height":125},"home_default":{"url":"http:\/\/serenitybddpractice.com\/img\/p\/en-default-home_default.jpg","width":250,"height":250},"medium_default":{"url":"http:\/\/serenitybddpractice.com\/img\/p\/en-default-medium_default.jpg","width":452,"height":452},"large_default":{"url":"http:\/\/serenitybddpractice.com\/img\/p\/en-default-large_default.jpg","width":800,"height":800}},"small":{"url":"http:\/\/serenitybddpractice.com\/img\/p\/en-default-small_default.jpg","width":98,"height":98},"medium":{"url":"http:\/\/serenitybddpractice.com\/img\/p\/en-default-home_default.jpg","width":250,"height":250},"large":{"url":"http:\/\/serenitybddpractice.com\/img\/p\/en-default-large_default.jpg","width":800,"height":800},"legend":""}},"configuration":{"display_taxes_label":false,"is_catalog":false,"show_prices":true,"opt_in":{"partner":true},"quantity_discount":{"type":"discount","label":"Discount"},"voucher_enabled":0,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Home","url":"http:\/\/serenitybddpractice.com\/"}],"count":1},"link":{"protocol_link":"http:\/\/","protocol_content":"http:\/\/"},"time":1580714653,"static_token":"06e0b73d4e83749d446d44cfbec15502","token":"6b6160feb6f59f39de24318f9bac0628"};
+      </script>
+
+
+
+  
+
+
+
+    
+  </head>
+
+  <body id="index" class="lang-en country-ca currency-eur layout-full-width page-index tax-display-disabled">
+
+    
+      
+    
+
+    <main>
+      
+              
+
+      <header id="header">
+        
+          
+  <div class="header-banner">
+    
+  </div>
+
+
+
+  <nav class="header-nav">
+    <div class="container">
+      <div class="row">
+        <div class="hidden-sm-down">
+          <div class="col-md-5 col-xs-12">
+            
+<!-- begin module:ps_contactinfo/nav.tpl -->
+<!-- begin /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_contactinfo/nav.tpl --><div id="_desktop_contact_link">
+  <div id="contact-link">
+          <a href="http://serenitybddpractice.com/contact-us">Contact us</a>
+      </div>
+</div>
+<!-- end /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_contactinfo/nav.tpl -->
+<!-- end module:ps_contactinfo/nav.tpl -->
+
+          </div>
+          <div class="col-md-7 right-nav">
+              
+<!-- begin module:ps_currencyselector/ps_currencyselector.tpl -->
+<!-- begin /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_currencyselector/ps_currencyselector.tpl -->
+<div id="_desktop_currency_selector">
+  <div class="currency-selector dropdown js-dropdown">
+    <span id="currency-selector-label">Currency:</span>
+    <button data-target="#" data-toggle="dropdown" class="hidden-sm-down btn-unstyle" aria-haspopup="true" aria-expanded="false" aria-label="Currency dropdown">
+      <span class="expand-more _gray-darker">EUR €</span>
+      <i class="material-icons expand-more"></i>
+    </button>
+    <ul class="dropdown-menu hidden-sm-down" aria-labelledby="currency-selector-label">
+              <li class="current">
+          <a title="Euro" rel="nofollow" href="http://serenitybddpractice.com/?SubmitCurrency=1&amp;id_currency=1" class="dropdown-item">EUR €</a>
+        </li>
+              <li>
+          <a title="US Dollar" rel="nofollow" href="http://serenitybddpractice.com/?SubmitCurrency=1&amp;id_currency=2" class="dropdown-item">USD $</a>
+        </li>
+          </ul>
+    <select class="link hidden-md-up" aria-labelledby="currency-selector-label">
+              <option value="http://serenitybddpractice.com/?SubmitCurrency=1&amp;id_currency=1" selected="selected">EUR €</option>
+              <option value="http://serenitybddpractice.com/?SubmitCurrency=1&amp;id_currency=2">USD $</option>
+          </select>
+  </div>
+</div>
+<!-- end /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_currencyselector/ps_currencyselector.tpl -->
+<!-- end module:ps_currencyselector/ps_currencyselector.tpl -->
+
+<!-- begin module:ps_customersignin/ps_customersignin.tpl -->
+<!-- begin /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_customersignin/ps_customersignin.tpl --><div id="_desktop_user_info">
+  <div class="user-info">
+          <a href="http://serenitybddpractice.com/my-account" title="Log in to your customer account" rel="nofollow">
+        <i class="material-icons"></i>
+        <span class="hidden-sm-down">Sign in</span>
+      </a>
+      </div>
+</div>
+<!-- end /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_customersignin/ps_customersignin.tpl -->
+<!-- end module:ps_customersignin/ps_customersignin.tpl -->
+
+<!-- begin module:ps_shoppingcart/ps_shoppingcart.tpl -->
+<!-- begin /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_shoppingcart/ps_shoppingcart.tpl --><div id="_desktop_cart">
+  <div class="blockcart cart-preview inactive" data-refresh-url="//serenitybddpractice.com/module/ps_shoppingcart/ajax">
+    <div class="header">
+              <i class="material-icons shopping-cart">shopping_cart</i>
+        <span class="hidden-sm-down">Cart</span>
+        <span class="cart-products-count">(0)</span>
+          </div>
+  </div>
+</div>
+<!-- end /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_shoppingcart/ps_shoppingcart.tpl -->
+<!-- end module:ps_shoppingcart/ps_shoppingcart.tpl -->
+
+          </div>
+        </div>
+        <div class="hidden-md-up text-sm-center mobile">
+          <div class="float-xs-left" id="menu-icon">
+            <i class="material-icons d-inline"></i>
+          </div>
+          <div class="float-xs-right" id="_mobile_cart"></div>
+          <div class="float-xs-right" id="_mobile_user_info"></div>
+          <div class="top-logo" id="_mobile_logo"></div>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+
+
+  <div class="header-top">
+    <div class="container">
+       <div class="row">
+        <div class="col-md-2 hidden-sm-down" id="_desktop_logo">
+                          <h1>
+                <a href="http://serenitybddpractice.com/">
+                  <img class="logo img-responsive" src="/img/logo.png" alt="Ecommerse">
+                </a>
+              </h1>
+                    </div>
+        <div class="col-md-10 col-sm-12 position-static">
+          
+<!-- begin module:ps_mainmenu/ps_mainmenu.tpl -->
+<!-- begin /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_mainmenu/ps_mainmenu.tpl -->
+
+<div class="menu js-top-menu position-static hidden-sm-down" id="_desktop_top_menu">
+    
+          <ul class="top-menu" id="top-menu" data-depth="0">
+                    <li class="category" id="category-3">
+                          <a class="dropdown-item" href="http://serenitybddpractice.com/3-clothes" data-depth="0">
+                                                                      <span class="float-xs-right hidden-md-up">
+                    <span data-target="#top_sub_menu_4797" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                      <i class="material-icons add"></i>
+                      <i class="material-icons remove"></i>
+                    </span>
+                  </span>
+                                Clothes
+              </a>
+                            <div class="popover sub-menu js-sub-menu collapse" id="top_sub_menu_4797">
+                
+          <ul class="top-menu" data-depth="1">
+                    <li class="category" id="category-4">
+                          <a class="dropdown-item dropdown-submenu" href="http://serenitybddpractice.com/4-men" data-depth="1">
+                                Men
+              </a>
+                          </li>
+                    <li class="category" id="category-5">
+                          <a class="dropdown-item dropdown-submenu" href="http://serenitybddpractice.com/5-women" data-depth="1">
+                                Women
+              </a>
+                          </li>
+              </ul>
+    
+              </div>
+                          </li>
+                    <li class="category" id="category-6">
+                          <a class="dropdown-item" href="http://serenitybddpractice.com/6-accessories" data-depth="0">
+                                                                      <span class="float-xs-right hidden-md-up">
+                    <span data-target="#top_sub_menu_3517" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                      <i class="material-icons add"></i>
+                      <i class="material-icons remove"></i>
+                    </span>
+                  </span>
+                                Accessories
+              </a>
+                            <div class="popover sub-menu js-sub-menu collapse" id="top_sub_menu_3517">
+                
+          <ul class="top-menu" data-depth="1">
+                    <li class="category" id="category-7">
+                          <a class="dropdown-item dropdown-submenu" href="http://serenitybddpractice.com/7-stationery" data-depth="1">
+                                Stationery
+              </a>
+                          </li>
+                    <li class="category" id="category-8">
+                          <a class="dropdown-item dropdown-submenu" href="http://serenitybddpractice.com/8-home-accessories" data-depth="1">
+                                Home Accessories
+              </a>
+                          </li>
+              </ul>
+    
+              </div>
+                          </li>
+                    <li class="category" id="category-9">
+                          <a class="dropdown-item" href="http://serenitybddpractice.com/9-art" data-depth="0">
+                                Art
+              </a>
+                          </li>
+              </ul>
+    
+    <div class="clearfix"></div>
+</div>
+<!-- end /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_mainmenu/ps_mainmenu.tpl -->
+<!-- end module:ps_mainmenu/ps_mainmenu.tpl -->
+
+<!-- begin module:ps_searchbar/ps_searchbar.tpl -->
+<!-- begin /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_searchbar/ps_searchbar.tpl --><!-- Block search module TOP -->
+<div id="search_widget" class="search-widget" data-search-controller-url="//serenitybddpractice.com/search">
+	<form method="get" action="//serenitybddpractice.com/search">
+		<input type="hidden" name="controller" value="search">
+		<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" name="s" value="" placeholder="Search our catalog" aria-label="Search" class="ui-autocomplete-input" autocomplete="off">
+		<button type="submit">
+			<i class="material-icons search"></i>
+      <span class="hidden-xl-down">Search</span>
+		</button>
+	</form>
+</div>
+<!-- /Block search module TOP -->
+<!-- end /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_searchbar/ps_searchbar.tpl -->
+<!-- end module:ps_searchbar/ps_searchbar.tpl -->
+
+          <div class="clearfix"></div>
+        </div>
+      </div>
+      <div id="mobile_top_menu_wrapper" class="row hidden-md-up" style="display:none;">
+        <div class="js-top-menu mobile" id="_mobile_top_menu"></div>
+        <div class="js-top-menu-bottom">
+          <div id="_mobile_currency_selector"></div>
+          <div id="_mobile_language_selector"></div>
+          <div id="_mobile_contact_link"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+        
+      </header>
+
+      
+        
+<aside id="notifications">
+  <div class="container">
+    
+    
+    
+      </div>
+</aside>
+      
+
+      <section id="wrapper">
+        
+        <div class="container">
+          
+            <nav data-depth="1" class="breadcrumb hidden-sm-down">
+  <ol itemscope="" itemtype="http://schema.org/BreadcrumbList">
+    
+              
+          <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+            <a itemprop="item" href="http://serenitybddpractice.com/">
+              <span itemprop="name">Home</span>
+            </a>
+            <meta itemprop="position" content="1">
+          </li>
+        
+          
+  </ol>
+</nav>
+          
+
+          
+
+          
+  <div id="content-wrapper">
+    
+    
+
+  <section id="main">
+
+    
+      
+    
+
+    
+      <section id="content" class="page-home">
+        
+
+        
+          
+            
+<!-- begin module:ps_imageslider/views/templates/hook/slider.tpl -->
+<!-- begin /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl -->
+  <div id="carousel" data-ride="carousel" class="carousel slide" data-interval="5000" data-wrap="true" data-pause="hover">
+    <ul class="carousel-inner" role="listbox">
+              <li class="carousel-item active" role="option" aria-hidden="false">
+          <a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v17_homeslider&amp;utm_campaign=back-office-EN&amp;utm_content=download">
+            <figure>
+              <img src="http://serenitybddpractice.com/modules/ps_imageslider/images/sample-1.jpg" alt="sample-1">
+                              <figcaption class="caption">
+                  <h2 class="display-1 text-uppercase">Sample 1</h2>
+                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
+                </figcaption>
+                          </figure>
+          </a>
+        </li>
+              <li class="carousel-item " role="option" aria-hidden="true">
+          <a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v17_homeslider&amp;utm_campaign=back-office-EN&amp;utm_content=download">
+            <figure>
+              <img src="http://serenitybddpractice.com/modules/ps_imageslider/images/sample-2.jpg" alt="sample-2">
+                              <figcaption class="caption">
+                  <h2 class="display-1 text-uppercase">Sample 2</h2>
+                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
+                </figcaption>
+                          </figure>
+          </a>
+        </li>
+              <li class="carousel-item " role="option" aria-hidden="true">
+          <a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v17_homeslider&amp;utm_campaign=back-office-EN&amp;utm_content=download">
+            <figure>
+              <img src="http://serenitybddpractice.com/modules/ps_imageslider/images/sample-3.jpg" alt="sample-3">
+                              <figcaption class="caption">
+                  <h2 class="display-1 text-uppercase">Sample 3</h2>
+                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
+                </figcaption>
+                          </figure>
+          </a>
+        </li>
+          </ul>
+    <div class="direction" aria-label="Carousel buttons">
+      <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+        <span class="icon-prev hidden-xs" aria-hidden="true">
+          <i class="material-icons"></i>
+        </span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+        <span class="icon-next" aria-hidden="true">
+          <i class="material-icons"></i>
+        </span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+<!-- end /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl -->
+<!-- end module:ps_imageslider/views/templates/hook/slider.tpl -->
+
+<!-- begin module:ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl -->
+<!-- begin /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl --><section class="featured-products clearfix">
+  <h2 class="h2 products-section-title text-uppercase">
+    Popular Products
+  </h2>
+  <div class="products">
+          
+  <article class="product-miniature js-product-miniature" data-id-product="1" data-id-product-attribute="1" itemscope="" itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+                  <a href="http://serenitybddpractice.com/men/1-1-hummingbird-printed-t-shirt.html#/1-size-s/8-color-white" class="thumbnail product-thumbnail">
+            <img src="http://serenitybddpractice.com/2-home_default/hummingbird-printed-t-shirt.jpg" alt="Hummingbird printed t-shirt" data-full-size-image-url="http://serenitybddpractice.com/2-large_default/hummingbird-printed-t-shirt.jpg">
+          </a>
+              
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title" itemprop="name"><a href="http://serenitybddpractice.com/men/1-1-hummingbird-printed-t-shirt.html#/1-size-s/8-color-white">Hummingbird printed t-shirt</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+                              
+
+                <span class="sr-only">Regular price</span>
+                <span class="regular-price">€23.90</span>
+                                  <span class="discount-percentage discount-product" style="top: -238px;">-20%</span>
+                              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">€19.12</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                      <li class="product-flag discount">Reduced price</li>
+                  </ul>
+      
+
+      <div class="highlighted-informations hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search"></i> Quick view
+          </a>
+        
+
+        
+                      <div class="variant-links">
+      <a href="http://serenitybddpractice.com/men/1-1-hummingbird-printed-t-shirt.html#/1-size-s/8-color-white" class="color" title="White" style="background-color: #ffffff"><span class="sr-only">White</span></a>
+      <a href="http://serenitybddpractice.com/men/1-2-hummingbird-printed-t-shirt.html#/1-size-s/11-color-black" class="color" title="Black" style="background-color: #434A54"><span class="sr-only">Black</span></a>
+    <span class="js-count count"></span>
+</div>
+                  
+      </div>
+
+    </div>
+  </article>
+
+          
+  <article class="product-miniature js-product-miniature" data-id-product="2" data-id-product-attribute="9" itemscope="" itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+                  <a href="http://serenitybddpractice.com/home/2-9-brown-bear-printed-sweater.html#/1-size-s" class="thumbnail product-thumbnail">
+            <img src="http://serenitybddpractice.com/21-home_default/brown-bear-printed-sweater.jpg" alt="Brown bear printed sweater" data-full-size-image-url="http://serenitybddpractice.com/21-large_default/brown-bear-printed-sweater.jpg">
+          </a>
+              
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title" itemprop="name"><a href="http://serenitybddpractice.com/home/2-9-brown-bear-printed-sweater.html#/1-size-s">Hummingbird printed sweater</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+                              
+
+                <span class="sr-only">Regular price</span>
+                <span class="regular-price">€35.90</span>
+                                  <span class="discount-percentage discount-product" style="top: -238px;">-20%</span>
+                              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">€28.72</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                      <li class="product-flag discount">Reduced price</li>
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search"></i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+          
+  <article class="product-miniature js-product-miniature" data-id-product="3" data-id-product-attribute="13" itemscope="" itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+                  <a href="http://serenitybddpractice.com/art/3-13-the-best-is-yet-to-come-framed-poster.html#/19-dimension-40x60cm" class="thumbnail product-thumbnail">
+            <img src="http://serenitybddpractice.com/3-home_default/the-best-is-yet-to-come-framed-poster.jpg" alt="The best is yet to come' Framed poster" data-full-size-image-url="http://serenitybddpractice.com/3-large_default/the-best-is-yet-to-come-framed-poster.jpg">
+          </a>
+              
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title" itemprop="name"><a href="http://serenitybddpractice.com/art/3-13-the-best-is-yet-to-come-framed-poster.html#/19-dimension-40x60cm">The best is yet to come'...</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">€29.00</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search"></i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+          
+  <article class="product-miniature js-product-miniature" data-id-product="4" data-id-product-attribute="16" itemscope="" itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+                  <a href="http://serenitybddpractice.com/home/4-16-the-adventure-begins-framed-poster.html#/19-dimension-40x60cm" class="thumbnail product-thumbnail">
+            <img src="http://serenitybddpractice.com/4-home_default/the-adventure-begins-framed-poster.jpg" alt="The adventure begins Framed poster" data-full-size-image-url="http://serenitybddpractice.com/4-large_default/the-adventure-begins-framed-poster.jpg">
+          </a>
+              
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title" itemprop="name"><a href="http://serenitybddpractice.com/home/4-16-the-adventure-begins-framed-poster.html#/19-dimension-40x60cm">The adventure begins Framed...</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">€29.00</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search"></i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+          
+  <article class="product-miniature js-product-miniature" data-id-product="5" data-id-product-attribute="19" itemscope="" itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+                  <a href="http://serenitybddpractice.com/art/5-19-today-is-a-good-day-framed-poster.html#/19-dimension-40x60cm" class="thumbnail product-thumbnail">
+            <img src="http://serenitybddpractice.com/5-home_default/today-is-a-good-day-framed-poster.jpg" alt="Today is a good day Framed poster" data-full-size-image-url="http://serenitybddpractice.com/5-large_default/today-is-a-good-day-framed-poster.jpg">
+          </a>
+              
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title" itemprop="name"><a href="http://serenitybddpractice.com/art/5-19-today-is-a-good-day-framed-poster.html#/19-dimension-40x60cm">Today is a good day Framed...</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">€29.00</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search"></i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+          
+  <article class="product-miniature js-product-miniature" data-id-product="6" data-id-product-attribute="0" itemscope="" itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+                  <a href="http://serenitybddpractice.com/home-accessories/6-mug-the-best-is-yet-to-come.html" class="thumbnail product-thumbnail">
+            <img src="http://serenitybddpractice.com/6-home_default/mug-the-best-is-yet-to-come.jpg" alt="Mug The best is yet to come" data-full-size-image-url="http://serenitybddpractice.com/6-large_default/mug-the-best-is-yet-to-come.jpg">
+          </a>
+              
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title" itemprop="name"><a href="http://serenitybddpractice.com/home-accessories/6-mug-the-best-is-yet-to-come.html">Mug The best is yet to come</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">€11.90</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search"></i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+          
+  <article class="product-miniature js-product-miniature" data-id-product="7" data-id-product-attribute="0" itemscope="" itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+                  <a href="http://serenitybddpractice.com/home-accessories/7-mug-the-adventure-begins.html" class="thumbnail product-thumbnail">
+            <img src="http://serenitybddpractice.com/7-home_default/mug-the-adventure-begins.jpg" alt="Mug The adventure begins" data-full-size-image-url="http://serenitybddpractice.com/7-large_default/mug-the-adventure-begins.jpg">
+          </a>
+              
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title" itemprop="name"><a href="http://serenitybddpractice.com/home-accessories/7-mug-the-adventure-begins.html">Mug The adventure begins</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">€11.90</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search"></i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+          
+  <article class="product-miniature js-product-miniature" data-id-product="8" data-id-product-attribute="0" itemscope="" itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+                  <a href="http://serenitybddpractice.com/home/8-mug-today-is-a-good-day.html" class="thumbnail product-thumbnail">
+            <img src="http://serenitybddpractice.com/8-home_default/mug-today-is-a-good-day.jpg" alt="Mug Today is a good day" data-full-size-image-url="http://serenitybddpractice.com/8-large_default/mug-today-is-a-good-day.jpg">
+          </a>
+              
+
+      <div class="product-description">
+        
+                      <h3 class="h3 product-title" itemprop="name"><a href="http://serenitybddpractice.com/home/8-mug-today-is-a-good-day.html">Mug Today is a good day</a></h3>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">€11.90</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search"></i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+      </div>
+  <a class="all-product-link float-xs-left float-md-right h4" href="http://serenitybddpractice.com/2-home">
+    All products<i class="material-icons"></i>
+  </a>
+</section>
+<!-- end /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl -->
+<!-- end module:ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl -->
+
+<!-- begin module:ps_banner/ps_banner.tpl -->
+<!-- begin /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_banner/ps_banner.tpl --><a class="banner" href="http://serenitybddpractice.com/" title="">
+      <img src="http://serenitybddpractice.com/modules/ps_banner/img/sale70.png" alt="" title="" class="img-fluid">
+  </a>
+<!-- end /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_banner/ps_banner.tpl -->
+<!-- end module:ps_banner/ps_banner.tpl -->
+
+<!-- begin module:ps_customtext/ps_customtext.tpl -->
+<!-- begin /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/modules/ps_customtext/ps_customtext.tpl -->
+<div id="custom-text">
+  <h2>Custom Text Block</h2>
+<p><strong class="dark">Lorem ipsum dolor sit amet conse ctetu</strong></p>
+<p>Sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>
+</div>
+<!-- end /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/modules/ps_customtext/ps_customtext.tpl -->
+<!-- end module:ps_customtext/ps_customtext.tpl -->
+
+          
+        
+      </section>
+    
+
+    
+      <footer class="page-footer">
+        
+          <!-- Footer content -->
+        
+      </footer>
+    
+
+  </section>
+
+
+    
+  </div>
+
+
+          
+        </div>
+        
+      </section>
+
+      <footer id="footer">
+        
+          <div class="container">
+  <div class="row">
+    
+      
+<!-- begin module:ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl -->
+<!-- begin /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl -->
+<div class="block_newsletter col-lg-8 col-md-12 col-sm-12">
+  <div class="row">
+    <p id="block-newsletter-label" class="col-md-5 col-xs-12">Get our latest news and special sales</p>
+    <div class="col-md-7 col-xs-12">
+      <form action="http://serenitybddpractice.com/#footer" method="post">
+        <div class="row">
+          <div class="col-xs-12">
+            <input class="btn btn-primary float-xs-right hidden-xs-down" name="submitNewsletter" type="submit" value="Subscribe">
+            <input class="btn btn-primary float-xs-right hidden-sm-up" name="submitNewsletter" type="submit" value="OK">
+            <div class="input-wrapper">
+              <input name="email" type="email" value="" placeholder="Your email address" aria-labelledby="block-newsletter-label">
+            </div>
+            <input type="hidden" name="action" value="0">
+            <div class="clearfix"></div>
+          </div>
+          <div class="col-xs-12">
+                              <p>You may unsubscribe at any moment. For that purpose, please find our contact info in the legal notice.</p>
+                                                          
+                        </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+<!-- end /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl -->
+<!-- end module:ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl -->
+
+<!-- begin module:ps_socialfollow/ps_socialfollow.tpl -->
+<!-- begin /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl -->
+
+  <div class="block-social col-lg-4 col-md-12 col-sm-12">
+    <ul>
+          </ul>
+  </div>
+
+<!-- end /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl -->
+<!-- end module:ps_socialfollow/ps_socialfollow.tpl -->
+
+    
+  </div>
+</div>
+<div class="footer-container">
+  <div class="container">
+    <div class="row">
+      
+        
+<!-- begin module:ps_linklist/views/templates/hook/linkblock.tpl -->
+<!-- begin /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_linklist/views/templates/hook/linkblock.tpl --><div class="col-md-4 links">
+  <div class="row">
+      <div class="col-md-6 wrapper">
+      <p class="h3 hidden-sm-down">Products</p>
+            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_50618" data-toggle="collapse">
+        <span class="h3">Products</span>
+        <span class="float-xs-right">
+          <span class="navbar-toggler collapse-icons">
+            <i class="material-icons add"></i>
+            <i class="material-icons remove"></i>
+          </span>
+        </span>
+      </div>
+      <ul id="footer_sub_menu_50618" class="collapse">
+                  <li>
+            <a id="link-product-page-prices-drop-1" class="cms-page-link" href="http://serenitybddpractice.com/prices-drop" title="Our special products">
+              Prices drop
+            </a>
+          </li>
+                  <li>
+            <a id="link-product-page-new-products-1" class="cms-page-link" href="http://serenitybddpractice.com/new-products" title="Our new products">
+              New products
+            </a>
+          </li>
+                  <li>
+            <a id="link-product-page-best-sales-1" class="cms-page-link" href="http://serenitybddpractice.com/best-sales" title="Our best sales">
+              Best sales
+            </a>
+          </li>
+              </ul>
+    </div>
+      <div class="col-md-6 wrapper">
+      <p class="h3 hidden-sm-down">Our company</p>
+            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_62783" data-toggle="collapse">
+        <span class="h3">Our company</span>
+        <span class="float-xs-right">
+          <span class="navbar-toggler collapse-icons">
+            <i class="material-icons add"></i>
+            <i class="material-icons remove"></i>
+          </span>
+        </span>
+      </div>
+      <ul id="footer_sub_menu_62783" class="collapse">
+                  <li>
+            <a id="link-cms-page-1-2" class="cms-page-link" href="http://serenitybddpractice.com/content/1-delivery" title="Our terms and conditions of delivery">
+              Delivery
+            </a>
+          </li>
+                  <li>
+            <a id="link-cms-page-2-2" class="cms-page-link" href="http://serenitybddpractice.com/content/2-legal-notice" title="Legal notice">
+              Legal Notice
+            </a>
+          </li>
+                  <li>
+            <a id="link-cms-page-3-2" class="cms-page-link" href="http://serenitybddpractice.com/content/3-terms-and-conditions-of-use" title="Our terms and conditions of use">
+              Terms and conditions of use
+            </a>
+          </li>
+                  <li>
+            <a id="link-cms-page-4-2" class="cms-page-link" href="http://serenitybddpractice.com/content/4-about-us" title="Learn more about us">
+              About us
+            </a>
+          </li>
+                  <li>
+            <a id="link-cms-page-5-2" class="cms-page-link" href="http://serenitybddpractice.com/content/5-secure-payment" title="Our secure payment method">
+              Secure payment
+            </a>
+          </li>
+                  <li>
+            <a id="link-static-page-contact-2" class="cms-page-link" href="http://serenitybddpractice.com/contact-us" title="Use our form to contact us">
+              Contact us
+            </a>
+          </li>
+                  <li>
+            <a id="link-static-page-sitemap-2" class="cms-page-link" href="http://serenitybddpractice.com/sitemap" title="Lost ? Find what your are looking for">
+              Sitemap
+            </a>
+          </li>
+                  <li>
+            <a id="link-static-page-stores-2" class="cms-page-link" href="http://serenitybddpractice.com/stores" title="">
+              Stores
+            </a>
+          </li>
+              </ul>
+    </div>
+    </div>
+</div>
+<!-- end /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_linklist/views/templates/hook/linkblock.tpl -->
+<!-- end module:ps_linklist/views/templates/hook/linkblock.tpl -->
+
+<!-- begin module:ps_customeraccountlinks/ps_customeraccountlinks.tpl -->
+<!-- begin /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl -->
+<div id="block_myaccount_infos" class="col-md-2 links wrapper">
+  <p class="h3 myaccount-title hidden-sm-down">
+    <a class="text-uppercase" href="http://serenitybddpractice.com/my-account" rel="nofollow">
+      Your account
+    </a>
+  </p>
+  <div class="title clearfix hidden-md-up" data-target="#footer_account_list" data-toggle="collapse">
+    <span class="h3">Your account</span>
+    <span class="float-xs-right">
+      <span class="navbar-toggler collapse-icons">
+        <i class="material-icons add"></i>
+        <i class="material-icons remove"></i>
+      </span>
+    </span>
+  </div>
+  <ul class="account-list collapse" id="footer_account_list">
+            <li>
+          <a href="http://serenitybddpractice.com/identity" title="Personal info" rel="nofollow">
+            Personal info
+          </a>
+        </li>
+            <li>
+          <a href="http://serenitybddpractice.com/order-history" title="Orders" rel="nofollow">
+            Orders
+          </a>
+        </li>
+            <li>
+          <a href="http://serenitybddpractice.com/credit-slip" title="Credit slips" rel="nofollow">
+            Credit slips
+          </a>
+        </li>
+            <li>
+          <a href="http://serenitybddpractice.com/addresses" title="Addresses" rel="nofollow">
+            Addresses
+          </a>
+        </li>
+        
+	</ul>
+</div>
+<!-- end /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl -->
+<!-- end module:ps_customeraccountlinks/ps_customeraccountlinks.tpl -->
+
+<!-- begin module:ps_contactinfo/ps_contactinfo.tpl -->
+<!-- begin /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_contactinfo/ps_contactinfo.tpl -->
+<div class="block-contact col-md-4 links wrapper">
+  <div class="hidden-sm-down">
+    <p class="h4 text-uppercase block-contact-title">Store information</p>
+      Ecommerse<br>Canada
+                          <br>
+                Email us: <a href="mailto:vamsi.krishna0207@gmail.com" class="dropdown">vamsi.krishna0207@gmail.com</a>
+        </div>
+  <div class="hidden-md-up">
+    <div class="title">
+      <a class="h3" href="http://serenitybddpractice.com/stores">Store information</a>
+    </div>
+  </div>
+</div>
+<!-- end /homepages/2/d751887296/htdocs/clickandbuilds/PrestaShop/MyeCommerc/themes/classic/modules/ps_contactinfo/ps_contactinfo.tpl -->
+<!-- end module:ps_contactinfo/ps_contactinfo.tpl -->
+
+      
+    </div>
+    <div class="row">
+      
+        
+      
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <p class="text-sm-center">
+          
+            <a class="_blank" href="http://www.prestashop.com" target="_blank">
+              © 2020 - Ecommerce software by PrestaShop™
+            </a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+        
+      </footer>
+
+    </main>
+
+    
+        <script type="text/javascript" src="http://serenitybddpractice.com/themes/core.js"></script>
+  <script type="text/javascript" src="http://serenitybddpractice.com/themes/classic/assets/js/theme.js"></script>
+  <script type="text/javascript" src="http://serenitybddpractice.com/js/jquery/ui/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="http://serenitybddpractice.com/modules/ps_imageslider/js/responsiveslides.min.js"></script>
+  <script type="text/javascript" src="http://serenitybddpractice.com/modules/ps_imageslider/js/homeslider.js"></script>
+  <script type="text/javascript" src="http://serenitybddpractice.com/modules/ps_searchbar/ps_searchbar.js"></script>
+  <script type="text/javascript" src="http://serenitybddpractice.com/modules/ps_shoppingcart/ps_shoppingcart.js"></script>
+  <script type="text/javascript" src="http://serenitybddpractice.com/themes/classic/assets/js/custom.js"></script>
+
+
+    
+
+    
+      
+    
+  
+
+
+
+<!-- end index.tpl --><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul></body></html>

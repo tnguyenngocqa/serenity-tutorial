@@ -1,0 +1,132 @@
+# Created at 2020-02-03T14:25:27.136
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-03T14:25:27.140
+
+
+# Created at 2020-02-03T14:25:27.141
+-------------------------------------------------------------------------------------
+
+# Created at 2020-02-03T14:25:27.142
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+
+# Created at 2020-02-03T14:25:27.144
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+
+# Created at 2020-02-03T14:25:27.145
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+
+# Created at 2020-02-03T14:25:27.147
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+
+# Created at 2020-02-03T14:25:27.149
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+
+# Created at 2020-02-03T14:25:27.152
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+
+# Created at 2020-02-03T14:25:27.154
+                                                                                     
+
+# Created at 2020-02-03T14:25:27.157
+ News and tutorials at http://www.serenity-bdd.info                                  
+
+# Created at 2020-02-03T14:25:27.158
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+
+# Created at 2020-02-03T14:25:27.159
+ Join the Serenity Community on Rocket Chat at https://serenity-bdd.rocket.chat      
+
+# Created at 2020-02-03T14:25:27.161
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+
+# Created at 2020-02-03T14:25:27.163
+ Learn Serenity BDD online at http://serenity-dojo.com                               
+
+# Created at 2020-02-03T14:25:27.165
+-------------------------------------------------------------------------------------
+
+# Created at 2020-02-03T14:25:27.168
+
+
+# Created at 2020-02-03T14:25:27.170
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Search for an item
+
+# Created at 2020-02-03T14:25:27.606
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Search for an item
+
+# Created at 2020-02-03T14:25:27.786
+[main] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-03T14:25:27.787
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+
+# Created at 2020-02-03T14:25:27.790
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+
+# Created at 2020-02-03T14:25:27.792
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+
+# Created at 2020-02-03T14:25:27.793
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+
+# Created at 2020-02-03T14:25:27.794
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+
+# Created at 2020-02-03T14:25:27.796
+                                                                  
+
+# Created at 2020-02-03T14:25:27.797
+
+
+# Created at 2020-02-03T14:25:27.799
+TEST STARTED: Search products from navigation-menu
+
+# Created at 2020-02-03T14:25:27.800
+-------------------------------------------------------------------(search-for-an-item;search-products-from-navigation-menu)
+
+# Created at 2020-02-03T14:25:30.397
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+
+# Created at 2020-02-03T14:25:30.403
+[main] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+
+# Created at 2020-02-03T14:25:48.149
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-03T14:25:48.151
+           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
+
+# Created at 2020-02-03T14:25:48.153
+  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
+
+# Created at 2020-02-03T14:25:48.163
+ (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
+
+# Created at 2020-02-03T14:25:48.164
+  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
+
+# Created at 2020-02-03T14:25:48.165
+ (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
+
+# Created at 2020-02-03T14:25:48.167
+          \_\                                                            
+
+# Created at 2020-02-03T14:25:48.168
+
+
+# Created at 2020-02-03T14:25:48.169
+TEST FAILED WITH ERROR: Search products from navigation-menu
+
+# Created at 2020-02-03T14:25:48.171
+---------------------------------------------------------------------
+
+# Created at 2020-02-03T14:25:48.267
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - TEST FAILED AT STEP {0} hovers over #target
+
+# Created at 2020-02-03T14:25:48.363
+[main] ERROR net.thucydides.core.steps.ConsoleLoggingListener - 
+
+# Created at 2020-02-03T14:25:48.656
+[pool-2-thread-1] INFO net.thucydides.core.requirements.PackageRequirementsTagProvider - Loading requirements from package requirements at: features
+

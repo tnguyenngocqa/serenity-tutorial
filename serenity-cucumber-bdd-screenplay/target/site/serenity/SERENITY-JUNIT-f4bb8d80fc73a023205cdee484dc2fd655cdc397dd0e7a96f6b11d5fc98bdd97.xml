@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Search for an item" skipped="0" tests="1" time="19.24" timestamp="2020-02-03 02:25:27"><testcase name="Search products from navigation-menu"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+screenplay.tasks.NavigateMenu.toBlousesItem(NavigateMenu.java:15)&#13;
+keywords.search.SearchItemKeywords.user_searches_for_an_item_using_the_navigate_menu(SearchItemKeywords.java:26)&#13;
+cucumber.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:50)&#13;
+cucumber.runner.TestStep.executeStep(TestStep.java:63)&#13;
+cucumber.runner.TestStep.run(TestStep.java:49)&#13;
+cucumber.runner.PickleStepTestStep.run(PickleStepTestStep.java:43)&#13;
+cucumber.runner.TestCase.run(TestCase.java:44)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:40)&#13;
+</system-err></testcase></testsuite>

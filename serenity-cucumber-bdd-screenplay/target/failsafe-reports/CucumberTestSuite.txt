@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: CucumberTestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 23.46 s <<< FAILURE! - in CucumberTestSuite
+Search products from navigation-menu  Time elapsed: 19.257 s  <<< ERROR!
+net.sf.cglib.core.CodeGenerationException: java.lang.NullPointerException-->null
+Caused by: java.lang.NullPointerException
+
